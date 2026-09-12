@@ -33,6 +33,7 @@ Soy estudiante de DAW apasionado por el desarrollo web y la tecnología. Me gust
 ### 🎯 Objetivos
 
 - 📚 Seguir aprendiendo tanto desarrollo web como otros servicios
+- 🤖 Explorando el uso de IA generativa aplicada a proyectos mobiles y web
 - 🚀 Crear proyectos completos y útiles
 - 💡 Mejorar mis habilidades
 - 💼 Conseguir experiencia profesional en el sector IT
